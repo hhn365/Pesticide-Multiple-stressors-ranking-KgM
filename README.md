@@ -29,3 +29,4 @@ This repository contains the data and R scripts to reproduce all analyses presen
 ## Data source
 The original KgM monitoring data are from Liess et al. (2021):  
 Liess, M. et al. (2021). The lowland stream monitoring dataset (KgM). PANGAEA.  https://doi.org/10.1594/PANGAEA.931673
+A copy of the dataset is included in the Input_data/ folder of this repository for reproducibility. This copy was downloaded from PANGAEA on 4 May 2025.
