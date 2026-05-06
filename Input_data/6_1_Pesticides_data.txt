@@ -1,0 +1,109 @@
+"substance"	"substance_official"	"Chemical_Abstracts_Service_registry_number"	"pesticide_type"	"LC50_invertebrates_µgL"	"LC50_invertebrates_source"	"Regulatory_Acceptable_Concentration_µgL"	"field_based_Acceptable_Concentration_µgL"	"Annual_Average_Environmental_Quality_Standard_µgL"	"Maximum_Acceptable_Concentration_Environmental_Quality_Standard_µgL"
+"2_4_D"	"2,4-D"	"94-75-7"	"H"	12400	"Ecotox"	1.1		0.2	1
+"acetamiprid"	"Acetamiprid"	"135410-20-7"	"I"	11.56	"Ecotox"	0.018	0.006264		
+"aclonifen"	"Aclonifen"	"74070-46-5"	"H"	1200	"IUPAC"	0.5		0.12	0.12
+"aminobifenox_acid"	"Aminobifenox acid"		"M"		"IUPAC"				
+"azoxystrobin"	"Azoxystrobin"	"131860-33-8"	"F"	230	"IUPAC"	0.55	0.124626		
+"azoxystrobin_acid"	"Azoxystrobin acid"	"1185255-09-7"	"M"		"IUPAC"				
+"bentazon"	"Bentazon"	"25057-89-0"	"H"	1e+05	"IUPAC"	535		0.1	
+"bifenox_free_acid"	"Bifenox free acid"	"53774-07-5"	"M"		"IUPAC"				
+"bixafen"	"Bixafen"	"581809-46-3"	"F"	1200	"IUPAC"	0.46			
+"boscalid"	"Boscalid"	"188425-85-6"	"F"	5330	"IUPAC"	12.5			
+"bromoxynil"	"Bromoxynil"	"1689-84-5"	"H"	12500	"IUPAC"	0.25	6.773171	0.5	
+"captan_THPAM"	"Captan Metabolit THPAM"	"133-06-2"	"M"	7100	"IUPAC"				
+"captan_THPI"	"Captan Metabolit THPI"	"85-40-5"	"M"		"IUPAC"				
+"chlorantraniliprole"	"Chlorantraniliprole"	"500008-45-7"	"I"	11.6	"IUPAC"	0.355	0.006286		
+"chloridazon"	"Chloridazon"	"1698-60-8"	"H"	132000	"IUPAC"	56		0.1	
+"chloridazon_desphenyl"	"Chloridazon-desphenyl"	"6339-19-1"	"M"		"IUPAC"				
+"chloridazon_methyl_desphenyl"	"Chloridazon-methyl desphenyl"	"17254-80-7"	"M"		"IUPAC"				
+"chlorothalonil_R471811"	"Chlorothalonil MTB R471811"		"M"		"IUPAC"				
+"chlortoluron"	"Chlortoluron"	"15545-48-9"	"H"	67000	"IUPAC"	2.3		0.4	
+"clothianidin"	"Chlothianidin"	"210880-92-5"	"I"	29	"IUPAC"	0.007	0.015714		
+"cyazofamid"	"Cyazofamid"	"120116-88-3"	"F"	190	"IUPAC"	0.77	0.102952		
+"cypronidil"	"Cypronidil"	"121552-61-2"	"F"	220	"IUPAC"	0.75	0.119208		
+"desaminometamitron"	"Desaminometamitron"		"M"		"IUPAC"				
+"desmethylchlortoluron"	"Desmethylchlortoluron"		"M"		"IUPAC"				
+"dichlorprop_P"	"Dichlorprop-P"	"15165-67-0"	"H"	1e+05	"IUPAC"	5.2			
+"difenoconazol"	"Difenoconazole"	"119446-68-3"	"F"	770	"IUPAC"	0.36			
+"diflufenican"	"Diflufenican"	"83164-33-4"	"H"	240	"IUPAC"	0.025		0.009	
+"dimethachlor"	"Dimethachlor"	"50563-36-5"	"H"	24000	"IUPAC"	3.5			
+"dimethachlor_CGA_354742"	"Dimethachlor CGA 354742"		"M"		"IUPAC"				
+"dimethachlor_CGA_369873"	"Dimethachlor CGA 369873"		"M"		"IUPAC"				
+"dimethenamid_P"	"Dimethenamid-P"	"163515-14-8"	"H"	3200	"IUPAC"	1.52			
+"dimethenamid_P_M23"	"Dimethenamid-P-M23"		"M"		"IUPAC"				
+"dimethenamid_P_M27"	"Dimethenamid-P-M27"		"M"		"IUPAC"				
+"dimethoat"	"Dimethoate"	"60-51-5"	"I"	769.45	"Ecotox"	4	0.416929	0.07	1
+"dimethomorph"	"Dimethomorph"	"110488-70-5"	"F"	20100	"IUPAC"	5.6			
+"dimoxystrobin"	"Dimoxystrobin"	"149961-52-4"	"F"	39.4	"IUPAC"	0.0316		0.03	2
+"epoxiconazol"	"Epoxiconazole"	"135319-73-2"	"F"	62.5	"IUPAC"	0.46		0.2	
+"ethofumesat"	"Ethofumesat"	"26225-79-6"	"H"	13520	"IUPAC"	15.6	7.325861		
+"fenpropidin"	"Fenpropidin"	"67306-00-7"	"F"	540	"IUPAC"	0.25			
+"fipronil"	"Fipronil"	"120068-37-3"	"I"	0.42	"Ecotox"	0.00077	0.000228		
+"florasulam"	"Florasulam"	"145701-23-1"	"H"	292000	"IUPAC"	0.118			
+"fluazinam"	"Fluazinam"	"79622-59-6"	"F"	41.4	"IUPAC"	0.625	0.022433		
+"fludioxonil"	"Fludioxonil"	"131341-86-1"	"F"	400	"IUPAC"	0.5	0.216741		
+"flufenacet"	"Flufenacet"	"142459-58-3"	"H"	30900	"IUPAC"	12		0.04	0.2
+"flufenacet_ESA"	"Flufenacet ESA"		"M"		"IUPAC"				
+"flufenacet_thiadone_AE_1258593"	"Flufenacet thiadone AE 1258593"		"M"		"IUPAC"				
+"flumioxazin_MTB_APF"	"Flumioxazin MTB APF"		"M"		"IUPAC"				
+"fluroxypyr"	"Fluroxypyr"	"69377-81-7"	"H"	1e+05	"IUPAC"	1.78666666666667			
+"flurtamon"	"Flurtamone"	"96525-23-4"	"H"	13000	"IUPAC"	1.5		0.2	1
+"fluxapyroxad"	"Fluxapyroxad"	"907204-31-3"	"F"	6780	"IUPAC"	3.59			
+"foramsulfuron"	"Foramsulfuron"	"173159-57-4"	"H"	1e+05	"IUPAC"	0.0336666666666667			
+"imidacloprid"	"Imidacloprid"	"138261-41-3"	"I"	8.775	"Ecotox"	0.009	0.004755	0.002	0.1
+"iodosulfuron_methyl"	"Iodosulfuron-methyl"	"144550-36-7"	"H"	1e+05	"IUPAC"	0.0446666666666667			
+"isoproturon"	"Isoproturon"	"34123-59-6"	"H"	580	"IUPAC"	1.3		0.3	1
+"isopyrazam"	"Isopyrazam"	"881685-58-1"	"F"	44	"IUPAC"	0.258			
+"kresoxim_methyl"	"Kresoxim-methyl"	"143390-89-0"	"F"	186	"IUPAC"	1.3			
+"lenacil"	"Lenacil"	"2164-08-1"	"H"	8400	"IUPAC"	0.35444			
+"MCPA"	"MCPA"	"94-74-6"	"H"	190000	"IUPAC"	4.33333333333333		2	
+"mecoprop_P"	"Mecoprop-P"	"16484-77-8"	"H"	91000	"IUPAC"	0.896666666666667		0.1	
+"mesostrion"	"Mesostrione"	"104206-82-8"	"H"	622000	"IUPAC"	0.77			
+"metamitron"	"Metamitron"	"41394-05-2"	"H"	5700	"IUPAC"	38			
+"metazachlor"	"Metazachlor"	"67129-08-2"	"H"	33000	"IUPAC"	1.67		0.4	
+"metazachlor_BH_479_11"	"Metazachlor BH 479-11"		"M"		"IUPAC"				
+"metazachlor_BH_479_12"	"MetazachlorBH 479-12"		"M"		"IUPAC"				
+"metazachlor_BH_479_9"	"Metazachlor BH 479-9"		"M"		"IUPAC"				
+"metazachlor_ESA"	"Metazachlor-ESA"		"M"		"IUPAC"				
+"methiocarb"	"Methiocarb"	"2032-65-7"	"I"	8	"IUPAC"	0.01	0.004335		
+"methiocarb_sulfoxid"	"Methiocarb sulfoxide"	"2635-10-1"	"M"		"IUPAC"	0.56			
+"metolachlor_CGA_357704"	"Metolachlor CGA 357704"		"M"		"IUPAC"				
+"metolachlor_CGA_368208"	"Metolachlor CGA 368208"		"M"		"IUPAC"				
+"metolachlor_ESA"	"Metolachlor-ESA"	"51218-45-2"	"M"	23500	"IUPAC"				
+"metolachlor_NOA_413173"	"Metolachlor NOA 413173"		"M"		"IUPAC"				
+"metolachlor_OA"	"Metolachlor OA"	"152019-73-3"	"M"	16600	"IUPAC"				
+"metrafenon"	"Metrafenone"	"220899-03-6"	"F"	920	"IUPAC"	22.5	0.498505		
+"metribuzin"	"Metribuzin"	"21087-64-9"	"H"	49000	"IUPAC"	0.584		0.2	
+"napropamid"	"Napropamid"	"15299-99-7"	"H"	14300	"IUPAC"	23.7			
+"nicosulfuron"	"Nicosulfuron"	"111991-09-4"	"H"	90000	"IUPAC"	0.09		0.009	0.09
+"pethoxamid"	"Pethoxamid"	"106700-29-2"	"H"	23000	"IUPAC"	2.67			
+"picoxystrobin"	"Picoxystrobin"	"117428-22-5"	"F"	24	"IUPAC"	0.057			
+"pirimicarb"	"Pirimicarb"	"23103-98-2"	"I"	17	"IUPAC"	0.17	0.009212	0.09	
+"prochloraz"	"Prochloraz"	"67747-09-5"	"F"	4300	"IUPAC"	5	2.329971		
+"propamocarb"	"Propamocarb"	"24579-73-5"	"F"	106000	"IUPAC"	630			
+"propiconazol"	"Propiconazole"	"60207-90-1"	"F"	10200	"IUPAC"	2		1	
+"propyzamid"	"Propyzamid"	"23950-58-5"	"H"	5600	"IUPAC"	34	3.03438		
+"prosulfocarb"	"Prosulfocarb"	"52888-80-9"	"H"	510	"IUPAC"	3.8			
+"prosulfuron"	"Prosulfuron"	"94125-34-5"	"H"	120000	"IUPAC"	0.13			
+"prothioconazol_desthio_AE_1194888"	"Prothioconazole-desthio"	"120983-64-4"	"M"	10000	"IUPAC"	0.334			
+"pyraclostrobin"	"Pyraclostrobin"	"175013-18-0"	"F"	16	"IUPAC"	0.235			
+"pyroxsulam"	"Pyroxsulam"	"422556-08-9"	"H"	1e+05	"IUPAC"	0.16			
+"quinmerac"	"Quinmerac"	"90717-03-6"	"H"	1e+05	"IUPAC"	34			
+"quinmerac_BH_518_2"	"Quinmerac BH 518-2"		"M"		"IUPAC"				
+"quizalofop_free_acid"	"Quizalofop acid"	"76578-12-6"	"H"	57700	"IUPAC"				
+"s_metolachlor"	"S-Metolachlor"	"87392-12-9"	"H"	11200	"IUPAC"	1.22			
+"spinosad"	"Spinosad"	"168316-95-8"	"I"	61.8	"Ecotox"	0.062	0.033487		
+"spiroxamin"	"Spiroxamin"	"118134-30-8"	"F"	6100	"IUPAC"	0.2			
+"sulcotrion"	"Sulcotrione"	"99105-77-8"	"H"	848000	"IUPAC"	0.69		0.1	5
+"tebuconazol"	"Tebuconazole"	"107534-96-3"	"F"	2790	"IUPAC"	0.625			
+"terbuthylazin"	"Terbuthylazin"	"5915-41-3"	"H"	21200	"IUPAC"	1.9		0.5	
+"terbuthylazin_desethyl_2_hydroxy"	"Terbutylazine-desethyl-2 hydroxy"		"M"		"IUPAC"				
+"thiacloprid"	"Thiacloprid"	"111988-49-9"	"I"	1.06	"Ecotox"	0.004	0.000574		
+"thiacloprid_amid"	"Thiacloprid amid"		"M"		"IUPAC"				
+"thiamethoxam"	"Thiamethoxam"	"153719-23-4"	"I"	78	"Ecotox"	0.043	0.042265		
+"topramezon"	"Topramezone"	"210631-68-8"	"H"	1e+05	"IUPAC"	0.9			
+"triadimenol"	"Triadimenol"	"55219-65-3"	"F"	51000	"IUPAC"	3.4			
+"trifloxistrobin_CGA_321113"	"Trifloxistrobin CGA 321113"	"252913-85-2"	"M"	49200	"IUPAC"				
+"trifloxstrobin"	"Trifloxstrobin"	"141517-21-7"	"F"	11	"IUPAC"	0.0862	0.00596		
+"tritosulfuron"	"Tritosulfuron"	"142469-14-5"	"H"	1e+05	"IUPAC"	2.6			
+"tritosulfuron_BH_635_2"	"Tritosulfuron Metabolit BH 635-2"	"1869-24-5"	"M"	1e+05	"IUPAC"				
