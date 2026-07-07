@@ -16,6 +16,7 @@ This repository contains the data and R scripts to reproduce all analyses presen
 |---|---|
 | `Input_data/` | Raw data for analyses and modelling |
 | `Recalculated_metrics/` | Recalculated pesticide toxicity metrics and model outputs |
+| `0_SPEAR-at-risk_taxa_composition.R` | Quantifies the taxonomic overlap between EPT (Ephemeroptera, Plecoptera, Trichoptera) taxa and SPEAR-at-risk taxa|
 | `1.1_Reproduce_TUmax.R` | Reproduction of pesticide toxicity metric (TUmax)|
 | `1.2_Reproduce_Multiple_regression.R` | Reproduction of multiple linear regressions of pesticide and multiple stressor effects on stream macroinvertebrates |
 | `2_Effects_of_pesticide_mixture_toxicity_aggregations.R` | Pesticide toxicity metrics |
