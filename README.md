@@ -1,7 +1,7 @@
 # Pesticide-Multiple-stressors-ranking-KgM
 
 ## R code and data for the publication: 
-**Robustness of pesticide and other environmental stressors as key drivers of stream macroinvertebrates in small agricultural catchments**
+**Data analysis choices influence the relative importance of multiple stressors on macroinvertebrates in agricultural streams**
 
 *Prepared by Hanh H. Nguyen, revised by Ralf B. Schäfer*
 
@@ -28,6 +28,6 @@ This repository contains the data and R scripts to reproduce all analyses presen
 - Required R packages are listed at the top of each script
 
 ## Data source
-The original KgM monitoring data are from Liess et al. (2021):  
+The KgM monitoring data used in this study were extracted from Liess et al. (2021):  
 Liess, M. et al. (2021). The lowland stream monitoring dataset (KgM). PANGAEA.  https://doi.org/10.1594/PANGAEA.931673
-A copy of the dataset is included in the Input_data/ folder of this repository for reproducibility. This copy was downloaded from PANGAEA on 4 May 2025.
+A copy of the dataset is included in the Input_data/ folder of this repository for reproducibility. This copy was downloaded from PANGAEA on 4 May 2025. 
